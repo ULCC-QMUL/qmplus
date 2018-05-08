@@ -251,6 +251,8 @@
 [submodule "local/kalturamediagallery"]
 	path = local/kalturamediagallery
 	url = git@github.com:ULCC-QMUL/kal_local_kalturamediagallery.git
+	branch = Jan2017
+	commit = e461425d66e90c35d49003f438027a25c720a587
 [submodule "local/mass_enroll"]
 	path = local/mass_enroll
 	url = git@github.com:ULCC-QMUL/moodle-local_mass_enroll.git

@@ -610,3 +610,6 @@
 [submodule "admin/tool/mergeusers"]
 	path = admin/tool/mergeusers
 	url = git@github.com:vsotirasqmplus/moodle-tool_mergeusers.git
+[submodule "blocks/assignmentgrade"]
+	path = blocks/assignmentgrade
+	url = git@github.com:ULCC-QMUL/moodle-block_assignmentgrade.git

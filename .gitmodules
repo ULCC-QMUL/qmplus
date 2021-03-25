@@ -604,3 +604,6 @@
 [submodule "user/profile/field/oidc"]
 	path = user/profile/field/oidc
 	url = git@github.com:ULCC-QMUL/moodle-profilefield_oidc.git
+[submodule "admin/tool/mergeusers"]
+	path = admin/tool/mergeusers
+	url = git@github.com:vsotirasqmplus/moodle-tool_mergeusers.git

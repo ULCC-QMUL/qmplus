@@ -1,6 +1,3 @@
-[submodule "admin/tool/mergeusers"]
-	path = admin/tool/mergeusers
-	url = git@github.com:ndunand/moodle-tool_mergeusers.git
 [submodule "auth/cas_db"]
 	path = auth/cas_db
 	url = git@github.com:ULCC-QMUL/moodle-auth_cas_db.git

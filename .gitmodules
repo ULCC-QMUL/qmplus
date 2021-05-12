@@ -484,9 +484,6 @@
 [submodule "plagiarism/turnitin"]
 	path = plagiarism/turnitin
 	url = git@github.com:turnitin/moodle-plagiarism_turnitin.git
-[submodule "question/behaviour/adaptivehintsnopenalties"]
-	path = question/behaviour/adaptivehintsnopenalties
-	url = git@github.com:ULCC-QMUL/moodle-qbehaviour_adaptivehintsnopenalties.git
 [submodule "question/behaviour/adaptivemultipart"]
 	path = question/behaviour/adaptivemultipart
 	url = git@github.com:maths/moodle-qbehaviour_adaptivemultipart.git

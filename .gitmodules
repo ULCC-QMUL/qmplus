@@ -415,9 +415,6 @@
 [submodule "mod/choicegroup"]
 	path = mod/choicegroup
 	url = git@github.com:ndunand/moodle-mod_choicegroup.git
-[submodule "mod/collaborate"]
-	path = mod/collaborate
-	url = git@github.com:moodlerooms/moodle-mod_collaborate.git
 [submodule "mod/groupmembers"]
 	path = mod/groupmembers
 	url = git@github.com:learnweb/moodle-mod_groupmembers.git

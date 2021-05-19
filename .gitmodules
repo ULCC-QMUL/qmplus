@@ -610,3 +610,6 @@
 [submodule "user/profile/field/oidc"]
 	path = user/profile/field/oidc
 	url = git@github.com:ULCC-QMUL/moodle-profilefield_oidc.git
+[submodule "mod/collaborate"]
+	path = mod/collaborate
+	url = git@github.com:open-lms-open-source/moodle-mod_collaborate.git

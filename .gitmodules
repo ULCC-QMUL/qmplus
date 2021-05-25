@@ -421,9 +421,6 @@
 [submodule "mod/hsuforum"]
 	path = mod/hsuforum
 	url = git@github.com:open-lms-open-source/moodle-mod_hsuforum.git
-[submodule "mod/hvp"]
-	path = mod/hvp
-	url = git@github.com:h5p/h5p-moodle-plugin.git
 [submodule "mod/kalvidassign"]
 	path = mod/kalvidassign
 	url = git@github.com:ULCC-QMUL/moodle-mod_kalvidassign.git

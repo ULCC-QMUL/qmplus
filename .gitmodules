@@ -613,3 +613,6 @@
 [submodule "mod/hvp"]
 	path = mod/hvp
 	url = git@github.com:h5p/h5p-moodle-plugin.git
+[submodule "mod/book/tool/wordimport"]
+	path = mod/book/tool/wordimport
+	url = git@github.com:ecampbell/moodle-booktool_wordimport.git

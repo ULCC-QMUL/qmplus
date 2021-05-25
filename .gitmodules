@@ -610,3 +610,6 @@
 [submodule "mod/collaborate"]
 	path = mod/collaborate
 	url = git@github.com:open-lms-open-source/moodle-mod_collaborate.git
+[submodule "mod/hvp"]
+	path = mod/hvp
+	url = git@github.com:h5p/h5p-moodle-plugin.git

@@ -610,3 +610,9 @@
 [submodule "mod/book/tool/wordimport"]
 	path = mod/book/tool/wordimport
 	url = git@github.com:ecampbell/moodle-booktool_wordimport.git
+[submodule "blocks/assignmentgrade"]
+	path = blocks/assignmentgrade
+	url = git@github.com:ULCC-QMUL/moodle-block_assignmentgrade.git
+[submodule "blocks/areaassignmentgrade"]
+	path = blocks/areaassignmentgrade
+	url = git@github.com:ULCC-QMUL/moodle-block_areaassignmentgrade.git

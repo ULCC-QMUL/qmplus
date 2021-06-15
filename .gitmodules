@@ -612,4 +612,4 @@
 	url = git@github.com:ULCC-QMUL/moodle-profilefield_oidc.git
 [submodule "blocks/assignmentgrade"]
         path = blocks/assignmentgrade
-        url = git@github.com:ULCC-QMUL/moodle-block_assignmentgrade.gi
+        url = git@github.com:ULCC-QMUL/moodle-block_assignmentgrade.git

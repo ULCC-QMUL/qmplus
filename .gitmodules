@@ -91,9 +91,6 @@
 [submodule "filter/easychem"]
 	path = filter/easychem
 	url = git@github.com:ULCC-QMUL/moodle-filter_easychem.git
-[submodule "filter/jmol"]
-	path = filter/jmol
-	url = git@github.com:geoffrowland/moodle-filter_jmol.git
 [submodule "filter/freemind"]
 	path = filter/freemind
 	url = git@github.com:ULCC-QMUL/moodle-filter_freemind.git

@@ -184,9 +184,6 @@
 [submodule "filter/imageopt"]
 	path = filter/imageopt
 	url = git@github.com:/gthomas2/moodle-filter_imageopt.git
-[submodule "filter/jmol"]
-	path = filter/jmol
-	url = git@github.com:geoffrowland/moodle-filter_jmol.git
 [submodule "filter/kaltura"]
 	path = filter/kaltura
 	url = git@github.com:ULCC-QMUL/moodle-filter_kaltura.git

@@ -466,9 +466,6 @@
 [submodule "mod/turnitintooltwo"]
 	path = mod/turnitintooltwo
 	url = git@github.com:turnitin/moodle-mod_turnitintooltwo.git
-[submodule "mod/zoom"]
-	path = mod/zoom
-	url = git@github.com:/ucla/moodle-mod_zoom
 [submodule "plagiarism/turnitin"]
 	path = plagiarism/turnitin
 	url = git@github.com:turnitin/moodle-plagiarism_turnitin.git

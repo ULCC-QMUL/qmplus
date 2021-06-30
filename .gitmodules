@@ -586,3 +586,9 @@
 [submodule "user/profile/field/oidc"]
 	path = user/profile/field/oidc
 	url = git@github.com:ULCC-QMUL/moodle-profilefield_oidc.git
+[submodule "blocks/areaassignmentgrade"]
+	path = blocks/areaassignmentgrade
+	url = git@github.com:ULCC-QMUL/moodle-block_areaassignmentgrade.git
+[submodule "blocks/assignmentgrade"]
+	path = blocks/assignmentgrade
+	url = git@github.com:ULCC-QMUL/moodle-block_assignmentgrade.git

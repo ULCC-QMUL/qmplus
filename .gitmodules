@@ -610,3 +610,6 @@
 [submodule "blocks/areaassignmentgrade"]
 	path = blocks/areaassignmentgrade
 	url = git@github.com:ULCC-QMUL/moodle-block_areaassignmentgrade.git
+[submodule "mod/pdfannotator"]
+	path = mod/pdfannotator
+	url = git@github.com:rwthmoodle/moodle-mod_pdfannotator.git

@@ -595,3 +595,6 @@
 [submodule "mod/book/tool/wordimport"]
 	path = mod/book/tool/wordimport
 	url = git@github.com:ecampbell/moodle-booktool_wordimport.git
+[submodule "local/sescomplaints"]
+	path = local/sescomplaints
+	url = git@github.com:ULCC-QMUL/moodle-local_sescomplaints.git
